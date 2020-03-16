@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://riijieboh.orhideya.kh.ua/sitemap.xml
